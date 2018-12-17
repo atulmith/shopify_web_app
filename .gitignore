@@ -1,0 +1,8 @@
+.env
+env
+.DS_Store
+node_modules/
+dump.rdb
+db.sqlite3
+app.yaml
+package-lock.json
